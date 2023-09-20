@@ -6,3 +6,4 @@ if(number %2==0){
 else{
     document.write("Number is odd");
 }
+//changes
